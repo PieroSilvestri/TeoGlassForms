@@ -1,5 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="TeoGlassForms.SiteSelectionPage">
 	<ContentPage.Content>
+		<StackLayout VerticalOptions="Center" Orientation="Vertical" HorizontalOptions="CenterAndExpand">
+			<Button Text="Packing" FontSize="50" x:Name="PackingButton"/>
+			<Button Text="Tests" FontSize="50" x:Name="TestButton"/>
+		</StackLayout>
 	</ContentPage.Content>
 </ContentPage>

@@ -1,5 +1,17 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="TeoGlassForms.BarcodeScanPage">
 	<ContentPage.Content>
+		<StackLayout Orientation="Vertical">
+			<StackLayout Orientation="Horizontal" Padding="40">
+				<Label Text="Immagine" FontSize="50" HorizontalOptions="CenterAndExpand" />
+				<Label Text="Packing" FontSize="50" HorizontalOptions="CenterAndExpand" />
+			</StackLayout>
+			<Label Text="Immagine2" HeightRequest="400" WidthRequest="800" BackgroundColor="Black" TextColor="White" FontSize="50" HorizontalOptions="Center" VerticalOptions="Center"/>
+			<StackLayout Orientation="Horizontal" Padding="50">
+				<Entry HeightRequest="60" Margin="200,0,0,0" x:Name="ManualInputEntry" Placeholder="Manual Input" FontSize="50"/>
+				<Button Text="OK" FontSize="50" HorizontalOptions="EndAndExpand" Margin="0,0,200,0"/>
+			</StackLayout>
+			<Button Text="Cancel" FontSize="50" Margin="0,0,0,0"/>
+		</StackLayout>
 	</ContentPage.Content>
 </ContentPage>
