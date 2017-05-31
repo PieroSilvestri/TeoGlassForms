@@ -1,10 +1,25 @@
 ﻿<Properties StartupConfiguration="{F765FFC5-866E-42DC-8F31-2B1127B1F869}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="App.xaml.cs">
+    <Files>
+      <File FileName="Views/SiteSelectionPage.xaml" Line="1" Column="1" />
+      <File FileName="Views/SiteSelectionPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Views/MainMenuPage.xaml" Line="5" Column="24" />
+      <File FileName="Views/MainMenuPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Views/BarcodeScanPage.xaml" Line="1" Column="1" />
+      <File FileName="Views/BarcodeScanPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Views/ItemDashboardPage.xaml" Line="1" Column="1" />
+      <File FileName="Views/ItemDashboardPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Views/DetailItemPage.xaml" Line="1" Column="1" />
+      <File FileName="Views/DetailItemPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="App.xaml" Line="1" Column="1" />
+      <File FileName="App.xaml.cs" Line="11" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.TeoGlassForms.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D3BDB29F-D5BA-4FAD-961F-37D5767A2632" />
+  <MonoDevelop.Ide.ItemProperties.TeoGlassForms.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F9337052-64D7-4CA8-BF94-F4643164F151" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>

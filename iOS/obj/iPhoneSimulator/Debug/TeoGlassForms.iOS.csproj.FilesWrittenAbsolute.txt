@@ -1,0 +1,15 @@
+/Users/pierosilvestri/Projects/TeoGlassForms/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/pierosilvestri/Projects/TeoGlassForms/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad5.4-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/pierosilvestri/Projects/TeoGlassForms/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad5.4-10.3/actool/_PartialAppManifest.items
+/Users/pierosilvestri/Projects/TeoGlassForms/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad5.4-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/pierosilvestri/Projects/TeoGlassForms/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad5.4-10.3/optimized/
+/Users/pierosilvestri/Projects/TeoGlassForms/iOS/bin/iPhoneSimulator/Debug/TeoGlassForms.iOS.pdb
+/Users/pierosilvestri/Projects/TeoGlassForms/iOS/bin/iPhoneSimulator/Debug/TeoGlassForms.iOS.exe
+/Users/pierosilvestri/Projects/TeoGlassForms/iOS/obj/iPhoneSimulator/Debug/TeoGlassForms.iOS.exe
+/Users/pierosilvestri/Projects/TeoGlassForms/iOS/obj/iPhoneSimulator/Debug/TeoGlassForms.iOS.pdb
+/Users/pierosilvestri/Projects/TeoGlassForms/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/pierosilvestri/Projects/TeoGlassForms/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/pierosilvestri/Projects/TeoGlassForms/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/pierosilvestri/Projects/TeoGlassForms/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/pierosilvestri/Projects/TeoGlassForms/iOS/bin/iPhoneSimulator/Debug/TeoGlassForms.dll
+/Users/pierosilvestri/Projects/TeoGlassForms/iOS/bin/iPhoneSimulator/Debug/TeoGlassForms.pdb

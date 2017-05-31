@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Paths>
   <ManifestDocuments />
@@ -5,4 +6,13 @@
   <Jars>
     <Jar>obj\Debug\__library_projects__\FormsViewGroup\library_project_imports\formsviewgroup.jar</Jar>
   </Jars>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <ManifestDocuments />
+  <NativeLibraries />
+  <Jars>
+    <Jar>obj/Debug/__library_projects__/FormsViewGroup/library_project_imports/formsviewgroup.jar</Jar>
+  </Jars>
+>>>>>>> master
 </Paths>
