@@ -1,0 +1,15 @@
+C:\Users\Antonietta\Desktop\Teorema\TeoGlassForms\bin\Debug\TeoGlassForms.dll
+C:\Users\Antonietta\Desktop\Teorema\TeoGlassForms\bin\Debug\TeoGlassForms.pdb
+C:\Users\Antonietta\Desktop\Teorema\TeoGlassForms\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Antonietta\Desktop\Teorema\TeoGlassForms\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Antonietta\Desktop\Teorema\TeoGlassForms\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Antonietta\Desktop\Teorema\TeoGlassForms\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Antonietta\Desktop\Teorema\TeoGlassForms\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Antonietta\Desktop\Teorema\TeoGlassForms\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Antonietta\Desktop\Teorema\TeoGlassForms\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Antonietta\Desktop\Teorema\TeoGlassForms\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Antonietta\Desktop\Teorema\TeoGlassForms\obj\Debug\TeoGlassForms.csprojResolveAssemblyReference.cache
+C:\Users\Antonietta\Desktop\Teorema\TeoGlassForms\obj\Debug\TeoGlassForms.App.xaml.g.cs
+C:\Users\Antonietta\Desktop\Teorema\TeoGlassForms\obj\Debug\TeoGlassForms.TeoGlassFormsPage.xaml.g.cs
+C:\Users\Antonietta\Desktop\Teorema\TeoGlassForms\obj\Debug\TeoGlassForms.dll
+C:\Users\Antonietta\Desktop\Teorema\TeoGlassForms\obj\Debug\TeoGlassForms.pdb

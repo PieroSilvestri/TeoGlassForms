@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="TeoGlassForms.MainMenuPage">
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="TeoGlassForms.MainMenuPage" BackgroundColor="White">
 	<ContentPage.Content>
-			
-	</ContentPage.Content>
+        <StackLayout Orientation="Vertical">
+            <StackLayout Padding="0, 0, 0, 20" Orientation="Horizontal" HorizontalOptions="FillAndExpand"  Spacing="40" VerticalOptions="Start" BackgroundColor="White">
+                <Image Source="inglassLogo.png"  HorizontalOptions="CenterAndExpand"></Image>
+                <Button Text="Packing" FontSize="30" TextColor="Black" BackgroundColor="White" BorderRadius="5" BorderWidth="2" BorderColor="Black" WidthRequest="300" HorizontalOptions="CenterAndExpand"></Button>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand" BackgroundColor="White">
+                <StackLayout Orientation="Horizontal" Padding="35" HorizontalOptions="CenterAndExpand" BackgroundColor="Gray">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer  
+                            Tapped="ReadBarcode"
+                            NumberOfTapsRequired="1"
+                         ></TapGestureRecognizer>
+                    </StackLayout.GestureRecognizers>
+                    <Image Source="codeReader.png"  VerticalOptions="CenterAndExpand"></Image>
+                    <Label Text="READ BARCODE" TextColor="White" FontSize="50" VerticalOptions="CenterAndExpand"></Label>
+                </StackLayout>
+            </StackLayout>
+
+        </StackLayout>
+    </ContentPage.Content>
 </ContentPage>

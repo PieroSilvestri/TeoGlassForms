@@ -11,5 +11,8 @@ namespace TeoGlassForms
 		{
 			InitializeComponent();
 		}
-	}
+
+        public void ReadBarcode() {
+        }
+    }
 }
