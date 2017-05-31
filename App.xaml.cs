@@ -8,7 +8,7 @@ namespace TeoGlassForms
 		{
 			InitializeComponent();
 
-			MainPage = new TeoGlassFormsPage();
+			MainPage = new MainMenuPage();
 		}
 
 		protected override void OnStart()
